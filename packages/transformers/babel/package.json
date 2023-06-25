@@ -34,7 +34,7 @@
     "core-js": "^3.2.1",
     "json5": "^2.1.0",
     "nullthrows": "^1.1.1",
-    "semver": "^5.7.0"
+    "semver": "^7.5.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.0",
