@@ -21,6 +21,6 @@
     "nullthrows": "^1.1.1"
   },
   "devDependencies": {
-    "sharp": "^0.29.1"
+    "sharp": "^0.35.3"
   }
 }
